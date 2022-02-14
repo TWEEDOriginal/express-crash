@@ -10,12 +10,14 @@
 
 1. clone the repo
 
-2. Install the dependencies using the command:
+2. Set up `.env` file, all the necessary environment variables can be found in `.env.example`
+
+3. Install the dependencies using the command:
      ```sh
     $ npm install
     ```
 
-3. Run the server locally:
+4. Run the server locally:
     ```sh
     $ npm run devStart
     ```
